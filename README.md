@@ -5,7 +5,7 @@ Frontend Developer  👩‍💻  | Software Engineer
 ![](https://komarev.com/ghpvc/?username=edanurascii&color=ee3f85)
 [![Github](https://img.shields.io/github/followers/edanurascii?label=Follow&style=social)](https://github.com/edanurascii)
 
-#### 🤗 My Natural Habitat:
+#### 🤗 Natural Habitat:
 <p align="left">
     <img height="200em" width="120em" src="https://raw.githubusercontent.com/edanurascii/edanurascii/main/images/natural.jpg" width="400px"/>
 </p>
