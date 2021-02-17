@@ -29,6 +29,9 @@ Frontend Developer  👩‍💻  | Software Engineer
   <a target="_blank" href="https://twitter.com/asciedanur">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img>
   </a>
+  <a target="_blank" href="https://stackoverflow.com/users/10770746/edanur">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-f48024?style=for-the-badge&logo=StackOverflow&logoColor=white"></img>
+  </a>
   <a target="_blank" href="https://open.spotify.com/user/edanurascii-4">
     <img src="https://img.shields.io/badge/-Spotify-000000?style=for-the-badge&logo=Spotify&logoColor=1DB954"></img>
   </a>
