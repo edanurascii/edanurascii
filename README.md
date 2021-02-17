@@ -2,19 +2,16 @@
 
 Frontend Developer  👩‍💻  | Software Engineer
 
-![](https://komarev.com/ghpvc/?username=edanurascii&color=ee3f85)
-[![Github](https://img.shields.io/github/followers/edanurascii?label=Follow&style=social)](https://github.com/edanurascii)
-
 #### ❤ Natural Habitat:
 <p align="left">
     <img height="200em" width="120em" src="https://raw.githubusercontent.com/edanurascii/edanurascii/main/images/natural.jpg" width="400px"/>
 </p>
 
 #### 🏆 My Github Stats:
-<p align="center">
+<p align="left">
     <a href="https://github.com/edanurascii">
       <img height="200em" width="350em" src="https://github.com/edanurascii/github-stats/blob/master/generated/overview.svg" />    
-      <img height="200em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edanurascii&layout=compact&langs_count=8&theme=radical"/>
+      <img height="200em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edanurascii&langs_count=8&theme=radical"/>
     </a>
 </p>
 
