@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Frontend Developer  👩‍💻  | Software Enginner
+Frontend Developer  👩‍💻  | Software Engineer
 
 ![](https://komarev.com/ghpvc/?username=edanurascii&color=ff69b4)
 [![Github](https://img.shields.io/github/followers/edanurascii?label=Follow&style=social)](https://github.com/edanurascii)
