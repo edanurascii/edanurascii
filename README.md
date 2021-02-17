@@ -13,7 +13,6 @@ Frontend Developer  👩‍💻  | Software Engineer
 #### 🏆 My Github Stats:
 <p align="center">
     <a href="https://github.com/edanurascii">
-      <img height="180em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edanurascii&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
       <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edanurascii&layout=compact&langs_count=8&theme=radical"/>
     </a>
 </p>
