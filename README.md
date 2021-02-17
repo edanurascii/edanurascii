@@ -28,6 +28,6 @@ Frontend Developer  👩‍💻  | Software Enginner
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img>
   </a>
   <a href="https://open.spotify.com/user/edanurascii-4">
-    <img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/edanurascii/edanurascii/master/images/spotify.svg"></img>
+    <img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/edanurascii/edanurascii/main/images/spotify.svg"></img>
   </a>
 </p>
