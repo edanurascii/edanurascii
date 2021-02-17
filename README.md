@@ -2,7 +2,7 @@
 
 Frontend Developer  👩‍💻  | Software Engineer
 
-#### ❤ Natural Habitat:
+#### ❤ My Natural Habitat:
 <p align="left">
     <img height="200em" width="120em" src="https://raw.githubusercontent.com/edanurascii/edanurascii/main/images/natural.jpg" width="400px"/>
 </p>
