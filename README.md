@@ -2,7 +2,7 @@
 
 Frontend Developer  👩‍💻  | Software Engineer
 
-![](https://komarev.com/ghpvc/?username=edanurascii&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=edanurascii&color=ee3f85)
 [![Github](https://img.shields.io/github/followers/edanurascii?label=Follow&style=social)](https://github.com/edanurascii)
 
 #### 🤗 My Natural Habitat:
